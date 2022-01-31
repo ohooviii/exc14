@@ -143,19 +143,3 @@
     margin-right: 70px;
 }
 
-.item{
-    height: 100%;
-    background-color: white;
-    min-width: 100px;
-}
-
-p{
-    color: rgb(255, 180, 17);
-    font-size: 64px;
-}
-
-.longscroll{
-    background-image: linear-gradient(red, yellow, blue);
-    height: 5000px;
-}
-
