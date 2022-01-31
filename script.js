@@ -11,10 +11,14 @@ $(document).ready(function(){
 
     $(".img").draggable();
 
+    $(".menu2").children().click(function(){
+        $(this).toggleClass("menuitems2")
+    })
+
   
 
     
-});
+})
 
     // $("#menuitem1").click(function(){
     //       $("#container1").html("<p>hello this is an html<br>paragraph element</p>");
