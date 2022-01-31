@@ -3,9 +3,7 @@
     padding: 0px;
     box-sizing: border-box;   
     scroll-behavior:smooth;
-    background-color: black;
 }
-
 
 
 .menu{
@@ -141,5 +139,6 @@
 
 .containerItem{
     margin-right: 70px;
+    background-color: transparent;
 }
 
